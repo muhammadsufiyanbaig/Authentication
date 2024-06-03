@@ -70,7 +70,6 @@ Create a `.env` file in the backend directory to configure the environment varia
 
 ```
 JWT_SECRET=your_jwt_secret_key
-DATABASE_URL=your_database_url
 PORT=5000
 ```
 
@@ -89,4 +88,4 @@ This project is licensed under the MIT License.
 
 ---
 
-For any questions or further assistance, please contact Muhammad Sufiyan Baig at send.sufiyan@gmail.com.
+For any questions or further assistance, please contact (Muhammad Sufiyan Baig)[https://muhammadsufiyanbaig.vercel.app/] at send.sufiyan@gmail.com.
