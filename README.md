@@ -88,4 +88,4 @@ This project is licensed under the MIT License.
 
 ---
 
-For any questions or further assistance, please contact (Muhammad Sufiyan Baig)[https://muhammadsufiyanbaig.vercel.app/] at send.sufiyan@gmail.com.
+For any questions or further assistance, please contact [Muhammad Sufiyan Baig](https://muhammadsufiyanbaig.vercel.app/) at send.sufiyan@gmail.com.
